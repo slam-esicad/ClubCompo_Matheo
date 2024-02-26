@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(139, 133, 133);
+}
+
+.player{ 
+    width: 20px;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
